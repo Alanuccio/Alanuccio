@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Alanuccio. I'm Data Engineer.
-- 👀 I’m interested in Big Data.
-- 🌱 I’m currently learning Data Engineer's stack of technologies such as DWH, Data Lake.
+- 👋 Hi, I’m @Alanuccio. I'm Platform Engineer.
+- 👀 I’m interested in Big Data Technologies.
+- 🌱 I’m currently working American company (ticket seller) creating tools for Data Engineers.
 - 💞️ I’m looking to collaborate on serious companies which are interested in BD.
 - 📫 How to reach me https://www.linkedin.com/in/alan-amirgalin-655509196/
 
